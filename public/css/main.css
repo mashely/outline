@@ -1538,3 +1538,81 @@ display: block;
  padding: 0;
   }
 }
+
+
+
+
+
+/*===========================
+        11.GREAT PEOPLE
+=============================*/
+
+.bg-people {
+  background-image: url('../img/parallax/city.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+.testi_boxes {
+  padding: 30px 20px;
+  margin: 0px 15px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 15px !important;
+}
+
+.testi_boxes .testi_img img {
+  max-width: 85px;
+}
+
+.client_review {
+  font-size: 17px !important;
+}
+
+.client_name {
+  font-size: 16px;
+}
+
+.client_work {
+  font-size: 14px;
+}
+
+.testi_boxes .bus_testi_icon {
+  font-size: 80px;
+  line-height: 60px;
+  position: absolute;
+  top: -15px;
+  color: #ececec !important;
+  height: 60px;
+  width: 80px;
+  border-radius: 14px;
+}
+
+.owl-theme .owl-controls .owl-page {
+  margin: 20px 0px;
+}
+
+.owl-theme .owl-controls .owl-page span {
+  display: block;
+  width: 6px;
+  height: 6px;
+  margin: 5px 4px;
+  filter: Alpha(Opacity=50);
+  opacity: 0.3;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  transition: all 0.5s;
+  background: #fff !important;
+}
+
+.client_section .owl-theme .owl-controls .owl-page.active span {
+  width: 20px;
+  opacity: 1;
+}
+
+.logo_img img {
+  opacity: 0.6;
+}
+

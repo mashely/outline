@@ -636,17 +636,18 @@
 
     <section id="Partners" class="facts">
         {{-- <div class="parallax-overlay"> --}}
-            <div class="arnold">
+            {{-- <div class="arnold"> --}}
                 {{-- <div class="row number-counters"> --}}
-                <div class="container">
-                    {{-- <div class="sec-title text-center mb50 wow rubberBand animated" data-wow-duration="1000ms"> --}}
+                <div class="container"> 
+                     <div class="sec-title text-center mb50 wow rubberBand animated" data-wow-duration="1200ms">
                         <h2>ASSOCIATE PARTNERS</h2>
+                        
                         <!-- <div class="devider"><i class="fa fa-heart-o fa-lg"></i></div> -->
                     
 
 
 
-                    <section class="clients-logo slider">
+                    {{-- <section class="clients-logo slider">
                         <div class="slide"><img src="img/clients/client-1.png"></div>
                         <div class="slide"><img src="img/clients/client-2.png"></div>
                         <div class="slide"><img src="img/clients/client-3.png"></div>
@@ -655,7 +656,7 @@
                         <div class="slide"><img src="img/clients/client-6.png"></div>
                         <div class="slide"><img src="img/clients/client-7.png"></div>
                         <div class="slide"><img src="img/clients/client-8.png"></div>
-                    </section>
+                    </section> --}}
 
 {{--                            
                          $('.clients-slider') .slick({
@@ -678,6 +679,152 @@
                         {{-- </div>
                     </div> --}}
                     <!-- end first count item -->
+
+                    <section class="section bg-people">
+                        <div class="bg-overlay"></div>
+                        <div class="container">
+                            <div class="row" data-aos="fade-up">
+                                <div class="col-lg-12">
+                                    <div class="section_title text-center text-white">
+                                        <h3>Trusted By<span class="font-weight-bold"> Great People</span></h3>
+                                        <div class="vr_line mx-auto d-block"></div>
+                                        <p class="sec_subtitle mx-auto pt-2">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row mt-3" data-aos="fade-up">
+                                <div class="col-lg-2 mt-3">
+                                    <div class="logo_img">
+                                        <img src="img/1.png" alt="logo-img" class="mx-auto img-fluid d-block">
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 mt-3">
+                                    <div class="logo_img">
+                                        <img src="img/2.png" alt="logo-img" class="mx-auto img-fluid d-block">
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 mt-3">
+                                    <div class="logo_img">
+                                        <img src="img/3.png" alt="logo-img" class="mx-auto img-fluid d-block">
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 mt-3">
+                                    <div class="logo_img">
+                                        <img src="img/4.png" alt="logo-img" class="mx-auto img-fluid d-block">
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 mt-3">
+                                    <div class="logo_img">
+                                        <img src="img/5.png" alt="logo-img" class="mx-auto img-fluid d-block">
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 mt-3">
+                                    <div class="logo_img">
+                                        <img src="img/6.png" alt="logo-img" class="mx-auto img-fluid d-block">
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 mt-3">
+                                    <div class="logo_img">
+                                        <img src="img/11.png" alt="logo-img" class="mx-auto img-fluid d-block">
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 mt-3">
+                                    <div class="logo_img">
+                                        <img src="img/21.png" alt="logo-img" class="mx-auto img-fluid d-block">
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 mt-3">
+                                    <div class="logo_img">
+                                        <img src="img/31.png" alt="logo-img" class="mx-auto img-fluid d-block">
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 mt-3">
+                                    <div class="logo_img">
+                                        <img src="img/41.png" alt="logo-img" class="mx-auto img-fluid d-block">
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 mt-3">
+                                    <div class="logo_img">
+                                        <img src="img/51.png" alt="logo-img" class="mx-auto img-fluid d-block">
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 mt-3">
+                                    <div class="logo_img">
+                                        <img src="img/61.png" alt="logo-img" class="mx-auto img-fluid d-block">
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 mt-3">
+                                    <div class="logo_img">
+                                        <img src="img/90.png" alt="logo-img" class="mx-auto img-fluid d-block">
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 mt-3">
+                                    <div class="logo_img">
+                                        <img src="img/91.png" alt="logo-img" class="mx-auto img-fluid d-block">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
                 </div>
         </div>
